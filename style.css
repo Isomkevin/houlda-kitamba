@@ -412,6 +412,14 @@ body {
     font-size: 14px;
 }
 
+.contact .form-group textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #0ef;
+    border-radius: 8px;
+    font-size: 14px;
+}
+
 .contact .form-group input:focus {
     outline: none;
     border-color: #03057c;

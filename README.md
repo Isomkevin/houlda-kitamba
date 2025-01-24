@@ -1,4 +1,4 @@
-# Houlda Kitamba Portfolio
+# Houlda Kitamba's Portfolio
 
 This project is a portfolio website for Houlda Kitamba, a Marketing Manager and Event & Communications Specialist. It showcases her professional expertise, services, certifications, and provides ways to connect with her.
 
@@ -67,7 +67,7 @@ To deploy this portfolio:
 
 ## Credits
 
-- **Developed by**: JUL3$
+- **Developed by**: JUL3$ and l3som
 - **Portfolio Owner**: Houlda Kitamba
 - **Tools Used**: HTML, CSS, JavaScript, Boxicons, Typed.js
 
