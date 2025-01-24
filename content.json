@@ -1,0 +1,26 @@
+{
+    "hero": {
+      "heading1": "Hello There,",
+      "heading2": "I'm Houlda Kitamba",
+      "subheading": "and I'm a ",
+      "description": "I excel in both Marketing Management and Event & Communications. Experienced in strategic marketing and seamless event coordination..."
+    },
+    "about": {
+      "title": "About Me",
+      "subtitle": "Marketing Manager and Event & Communications Specialist",
+      "content": "As an accomplished Marketing Manager and Event & Communications Specialist, I possess a rich tapestry of experience in formulating..."
+    },
+    "services": [
+      {
+        "title": "Strategic Campaigns and Event Planning",
+        "description": "As a Marketing and Events Specialist, my expertise lies in strategizing and executing engaging marketing campaigns...",
+        "link": "/Documents/Events.pdf"
+      },
+      {
+        "title": "Creative Design and User Experience",
+        "description": "My role as a Marketing and Events Specialist involves utilizing your creative and design skills to optimize online platforms...",
+        "link": "https://jakenya.org/"
+      }
+    ]
+  }
+  
